@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "262555834681",
+    "firebase_url": "https://commicapp-default-rtdb.firebaseio.com",
+    "project_id": "commicapp",
+    "storage_bucket": "commicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262555834681:android:eb15d8197b992b6eda30e8",
+        "android_client_info": {
+          "package_name": "com.example.commicreaderappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262555834681-107dd3d694a5knm5sm5fq6umimqi795k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86Ib5f_HZZan6Xg8FWJcGXB2lyo2VqzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262555834681-107dd3d694a5knm5sm5fq6umimqi795k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262555834681:android:fafad20647da48dfda30e8",
+        "android_client_info": {
+          "package_name": "com.example.commicreaderappflutter1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262555834681-107dd3d694a5knm5sm5fq6umimqi795k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86Ib5f_HZZan6Xg8FWJcGXB2lyo2VqzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262555834681-107dd3d694a5knm5sm5fq6umimqi795k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

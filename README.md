@@ -1,4 +1,4 @@
-# commicreaderappflutterwithfirebase
+# Commic Reader App Flutter With Firebase
 
 ![2021-02-20_105542](https://user-images.githubusercontent.com/66062533/108627093-7db8ac00-745c-11eb-8c1f-1125bfe9acdd.jpg)
 ![2021-02-20_105550](https://user-images.githubusercontent.com/66062533/108627095-7ee9d900-745c-11eb-9223-33f90ac08615.jpg)
